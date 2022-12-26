@@ -1,4 +1,7 @@
-# osticket-prereqs <p align="center">
+<h1>Hi, I'm Peter, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+
+<h2>👨‍💻 Information Technology Projects:</h2># osticket-prereqs <p align="center">
+
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
